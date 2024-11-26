@@ -1,16 +1,16 @@
-## Hi there 👋
+# 🖐️ Hello World!
+のんびり過ごしている情報系大学生です。
+プログラミングちょっとできる。
 
-<!--
-**taku-147/taku-147** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 📚 Skills
+- Python (まぁまぁ)
+- C (ポインタ変数わかんね)
+- Java (ちょっとだけ)
+- Ruby (5年くらい触ってないからほぼほぼ忘れかけ)
+- JavaScript (たまに)
+- Batch (よくつかう)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 📫 Contact
+- X(Twitter) : https://x.com/Takutskt
+- YouTube: https://www.youtube.com/@takutskt
+- Misskey : https://misskey.io/@Takuan147
