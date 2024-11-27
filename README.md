@@ -9,9 +9,11 @@
 - Java (ちょっとだけ)
 - Ruby (5年くらい触ってないからほぼほぼ忘れかけ)
 - JavaScript (たまに)
-- Batch (よくつかう)
+- Batch (よくつかう やっぱそんな使ってなかった)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taku-147&layout=compact)
 
 # 📫 Contact
 - X(Twitter) : https://x.com/Takutskt
 - YouTube: https://www.youtube.com/@takutskt
 - Misskey : https://misskey.io/@Takuan147
+
