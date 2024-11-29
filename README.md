@@ -10,7 +10,7 @@
 - Ruby (5年くらい触ってないからほぼほぼ忘れかけ)
 - JavaScript (たまに)
 - Batch (よくつかう やっぱそんな使ってなかった)
-<br>[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=taku_147)](https://github.com/anuraghazra/github-readme-stats)
+<br>[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=taku_147&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 # 📫 Contact
 - X(Twitter) : https://x.com/Takutskt
