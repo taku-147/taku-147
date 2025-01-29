@@ -1,6 +1,6 @@
 # 🖥️ Computers
 PCに名前つけてる変態だったりします。
-<br>2024/12/16更新
+<br>2025/01/29更新
 ## Dominas
 ### 自作PC
 メイン機、これがないと生きていけない
@@ -48,3 +48,11 @@ PCに名前つけてる変態だったりします。
 - SSD:eMMC 128GB
 - OS:Windows 11 Home x86_64(強引)
 
+## hypemistpack
+### HP ProBook 445 G11
+突然家に届いた謎のPC パスワードもかかっている...
+- CPU:?
+- RAM:?
+- GPU:?
+- SSD:?
+- OS:?
