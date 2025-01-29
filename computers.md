@@ -48,7 +48,7 @@ PCに名前つけてる変態だったりします。
 - SSD:eMMC 128GB
 - OS:Windows 11 Home x86_64(強引)
 
-## hypemistpack
+## HypemistPack
 ### HP ProBook 445 G11
 突然家に届いた謎のPC パスワードもかかっている...
 - CPU:?
