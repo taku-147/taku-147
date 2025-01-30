@@ -1,6 +1,6 @@
 # 🖥️ Computers
 PCに名前つけてる変態だったりします。
-<br>2025/01/29更新
+<br>2025/01/30更新
 ## Dominas
 ### 自作PC
 メイン機、これがないと生きていけない
@@ -50,9 +50,9 @@ PCに名前つけてる変態だったりします。
 
 ## HypemistPack
 ### HP ProBook 445 G11
-突然家に届いた謎のPC パスワードもかかっている...
-- CPU:?
-- RAM:?
-- GPU:?
-- SSD:?
-- OS:?
+突然家に届いた謎のPC。果たして何が始まるのだろうか...
+- CPU:AMD Ryzen 5 7535U
+- RAM:DDR? 16GB
+- GPU:AMD Radeon Graphics
+- SSD:eMMC 512GB
+- OS:Windows 10 Pro x86_64
