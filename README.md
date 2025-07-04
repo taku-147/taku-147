@@ -24,6 +24,7 @@ I give my PCs names—yeah, I know, kinda weird.
 長いので以下参照 
 For the full list, check here:  
 <br>[[taku-147/computers.md](computers.md)]
+<br>[[taku-147/smartphone.md](smartphone.md)]
 
 # 📫 Contact
 - X(Twitter) : https://x.com/Takutskt

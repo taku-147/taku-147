@@ -1,6 +1,6 @@
 # 🖥️ Computers
 PCに名前つけてる変態だったりします。
-<br>2025/01/30更新
+<br>2025/07/04更新
 ## Dominas
 ### 自作PC
 メイン機、これがないと生きていけない
@@ -28,7 +28,7 @@ PCに名前つけてる変態だったりします。
 - RAM:LPDDR4X 16GB
 - GPU:Apple M1
 - SSD:NVMe 256GB
-- OS:macOS Sequoia
+- OS:macOS Tahoe
 
 ## Cloutria
 ### HPE ProLiant ML310e Gen8 v2
